@@ -15,4 +15,16 @@ Number Guessing Game
 This python game randomly generates a number between 1 and 100.
 The user has to gues the nmber and the program will tell whether the guess is too high or too low.
 
+#Task 3:
+# 🔐 Password Generator
 
+This is a simple Python project to generate strong random passwords.
+
+## Features
+- Custom password length
+- Includes letters, numbers, symbols
+- Easy to use
+
+## How to Run
+```bash
+python password_generator.py
